@@ -1,0 +1,21 @@
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Kadoma City Council.exe.config
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Kadoma City Council.exe
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Kadoma City Council.pdb
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Devart.Data.dll
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\LollipoUi.dll
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\MySql.Data.dll
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Devart.Data.xml
+C:\Users\Carlos\source\repos\Kadoma City Council\bin\Debug\Devart.Data.MySql.xml
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma_City_Council.loginform.resources
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma_City_Council.Main.resources
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma_City_Council.Properties.Resources.resources
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma_City_Council.SecondCustomControl.resources
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.exe.licenses
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.csproj.CopyComplete
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.exe
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.pdb
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma_City_Council.SearchUserControl.resources
+C:\Users\Carlos\source\repos\Kadoma City Council\obj\Debug\Kadoma City Council.csprojAssemblyReference.cache
